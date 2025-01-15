@@ -129,13 +129,13 @@ Ensure you have the following installed on your system:
    ```bash
    git clone https://github.com/Samirml/RAG_answers_for_questions
    cd RAG_answers_for_questions
-
+   ```
 **2. Create a Virtual Environment (Optional but Recommended):**
    ```bash
    python -m venv env
    source env/bin/activate
    # On Windows use `env\Scripts\activate`
-
+   ```
 **3. Install the required packages:**
 ```bash
 pip install -r requirements.txt
